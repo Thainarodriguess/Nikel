@@ -20,6 +20,10 @@ O **Nikel** possui as seguintes funcionalidades:
     
 ✔️ Página de **lançamentos**, onde é possível visualizar todas as transações registradas, incluindo data e tipo de operação.  
 
+## 🌐 Acesse o projeto
+
+- 🔗 **Deploy :** ([https://nikel-eight.vercel.app/]))
+
 ## 🎯 Como executar o projeto  
 1. Clone o repositório:  
    ```bash
